@@ -1,0 +1,14 @@
+D:\C# projects\HW_Worker\HW_Worker\bin\Debug\HW_Worker.exe.config
+D:\C# projects\HW_Worker\HW_Worker\bin\Debug\HW_Worker.exe
+D:\C# projects\HW_Worker\HW_Worker\bin\Debug\HW_Worker.pdb
+D:\C# projects\HW_Worker\HW_Worker\obj\Debug\HW_Worker.csproj.AssemblyReference.cache
+D:\C# projects\HW_Worker\HW_Worker\obj\Debug\HW_Worker.csproj.SuggestedBindingRedirects.cache
+D:\C# projects\HW_Worker\HW_Worker\obj\Debug\HW_Worker.csproj.CoreCompileInputs.cache
+D:\C# projects\HW_Worker\HW_Worker\obj\Debug\HW_Worker.exe
+D:\C# projects\HW_Worker\HW_Worker\obj\Debug\HW_Worker.pdb
+C:\Users\User\Desktop\HW_Worker\HW_Worker\bin\Debug\HW_Worker.exe.config
+C:\Users\User\Desktop\HW_Worker\HW_Worker\bin\Debug\HW_Worker.exe
+C:\Users\User\Desktop\HW_Worker\HW_Worker\bin\Debug\HW_Worker.pdb
+C:\Users\User\Desktop\HW_Worker\HW_Worker\obj\Debug\HW_Worker.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HW_Worker\HW_Worker\obj\Debug\HW_Worker.exe
+C:\Users\User\Desktop\HW_Worker\HW_Worker\obj\Debug\HW_Worker.pdb
