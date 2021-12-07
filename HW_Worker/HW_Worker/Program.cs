@@ -13,6 +13,7 @@ namespace HW_Worker
             int option, subordinates, respLevel, profOpt;
             double salary;
             string name;
+            int a;
             bool quit = true;
             List<Worker> workers = new List<Worker>();
             int choose;
